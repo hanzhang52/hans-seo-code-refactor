@@ -8,6 +8,10 @@ The CSS code was updated to remove unwanted attributes creating a simpler code. 
 ![Screen shot of the top portion of the Horiseon website.](/assets/images/top-page-horiseon.png)
 ![Screen shot of the top portion of the Horiseon website.](/assets/images/bottom-page-horiseon.png)
 
+## Link for the Live Website
+
+https://hanzhang52.github.io/hans-seo-code-refactor/
+
 ## License
 
 MIT License
